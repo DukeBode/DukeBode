@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[<img src="favicon/gitee.ico" width=32 alt="Gitee"  aria-label="">](https://gitee.com/DukeBode)
+<a href="https://github.com/DukeBode" aria-label="GitHub 是一个面向开源及私有软件项目的托管平台，提供了订阅、讨论组、文本渲染、在线文件编辑器、协作图谱（报表）、代码片段分享（Gist）等功能。" alt="Github"><img src="favicon/github.ico" width=32/></a>
+<a href="https://yuque.com/dukebode" aria-label="语雀是一个知识创作与分享工具，致力于为每个想表达所思所想的人提供一款顺手的工具，让知识能得以记录和传播，让人们可以平等快乐地创作和交流知识。" alt="语雀"><img src="favicon/yuque.png" width=32></a>
+[<img src="favicon/weibo.ico" width=32 alt="微博">](https://weibo.com/newggbode)
