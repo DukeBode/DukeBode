@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,dotnet,gradle,kotlin,eclipse,github,md,linux,mysql,nodejs,py,sqlite,vscode,vim,visualstudio,java,idea,git,cpp,bsd)](https://DukeBode.github.io)
 blog https://dukebode.github.io
 <details>
 <summary></summary>
