@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+blog https://dukebode.github.io
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary></summary>
 
 [<img src="favicon/gitee.ico" width=32 alt="Gitee"  aria-label="">](https://gitee.com/DukeBode)
 <a href="https://github.com/DukeBode" aria-label="GitHub 是一个面向开源及私有软件项目的托管平台，提供了订阅、讨论组、文本渲染、在线文件编辑器、协作图谱（报表）、代码片段分享（Gist）等功能。" alt="Github"><img src="favicon/github.ico" width=32/></a>
