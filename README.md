@@ -18,5 +18,11 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,dotnet,gradle,kotlin,eclipse,github,md,linux,mysql,nodejs,py,sqlite,vscode,vim,visualstudio,java,idea,git,cpp,bsd)](https://DukeBode.github.io)
 blog https://dukebode.github.io
 
+![DukeBode github stats](https://github-readme-stats.vercel.app/api?username=DukeBode&theme=radical&show_icons=true&count_private=true)
+
+![DukeBode Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DukeBode&theme=solarized_dark)
+
+![DukeBode Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DukeBode&theme=solarized_dark)
+
 ![DukeBode Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DukeBode&theme=solarized_dark)
 
