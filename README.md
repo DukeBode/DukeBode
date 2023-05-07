@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,dotnet,gradle,kotlin,eclipse,github,md,linux,mysql,nodejs,py,sqlite,vscode,vim,visualstudio,java,idea,git,cpp,bsd)](https://DukeBode.github.io)
 blog https://dukebode.github.io
-<details open>
-<summary></summary>
+
 ![DukeBode Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DukeBode&theme=solarized_dark)
-</details>
 
